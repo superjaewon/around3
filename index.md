@@ -33,5 +33,6 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/superjaewon/around3/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### Support or Contact
+<a href="itms-services://?action=download-manifest&url=[github plist raw url]">Download</a>
 <a href="http://www.naver.com">sdsdsd</a>
 <a href="itms-services://?action=download-manifest&url=https://github.com/superjaewon/around3/blob/master/manifest.plist">OTA 다운</a>
