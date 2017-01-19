@@ -34,4 +34,4 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 ### Support or Contact
 <a href="http://www.naver.com">sdsdsd</a>
-<a href="itms-services://?action=download-manifest&url=https://dl.dropboxusercontent.com/s/pb8mbfoa59ehrpl/manifest.plist">OTA 다운</a>
+<a href="itms-services://?action=download-manifest&url=https://github.com/superjaewon/around3/blob/master/manifest.plist">OTA 다운</a>
